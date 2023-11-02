@@ -6,12 +6,12 @@ export default {
   },
   // Colors for layout
   colors: {
-    primary1: "hsl(204,23.8%,95.9%)",
-    background1: "#0F1624",
-    accent1: "hsl(34.9,98.6%,72.9%)",
-    button: "hsl(205.1,100%,36.1%)",
-    background2: "hsl(232.7,27.3%,23.7%)",
-  },
+    primary1: "#BEE7E8",      // Pale blue
+    background1: "#4B0082",   // Indigo
+    accent1: "#FFD700",      // Gold
+    button: "#228B22",       // Forest green
+    background2: "#8A2BE2"   // Blue violet
+},
   // Breakpoints for responsive design
   breakpoints: {
     sm: 'screen and (max-width: 640px)',
